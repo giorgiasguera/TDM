@@ -1,0 +1,16 @@
+# Core Deep Learning & Tensor Management
+#torch>=2.0.0
+numpy>=1.22.0
+
+# Data Management & Preprocessing
+pandas>=1.5.0
+PyYAML>=6.0
+
+# Computer Vision & Video Rendering (per colab)
+opencv-python>=4.7.0
+
+# Experiment Tracking & MLOps
+wandb>=0.15.0
+
+# Metrics & Sequence Alignment
+dtw-python>=1.4.0
